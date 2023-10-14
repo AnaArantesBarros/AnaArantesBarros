@@ -1,6 +1,6 @@
 # Sobre mim:
 
-Olá! Meu nome é Ana, sou estagiária em geoprocessamento com experiência no desenvolvimento de aplicativos e análise de dados geográficos. Abaixo estão os detalhes da minha experiência e competências:
+Olá! Meu nome é Ana, sou estagiária em geoprocessamento com experiência no desenvolvimento de aplicativos e análise de dados geográficos.
 
 ## Conhecimentos e Competências
 
