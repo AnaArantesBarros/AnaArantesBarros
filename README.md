@@ -25,8 +25,6 @@ Olá! Meu nome é Ana, sou estagiária em geoprocessamento com experiência no d
 
 ---
 
-Fique à vontade para explorar meus projetos e descobrir mais sobre minhas habilidades e experiências. Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato!
-
 <!--
 **AnaArantesBarros/AnaArantesBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
