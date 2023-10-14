@@ -11,6 +11,8 @@ Olá! Meu nome é Ana, sou estagiária em geoprocessamento com experiência no d
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-0082FC?style=for-the-badge&logo=arcgis&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+
 
 
 ## Atividades Realizadas em Estágios:
