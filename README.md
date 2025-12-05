@@ -14,15 +14,6 @@
 
 
 
-## Atividades Realizadas em Estágios:
-- Extração, Transformação e Ingestão (ETL) de dados geográficos com Python e SQLAlchemy.
-- Desenvolvimento de aplicativos com Flask e Flask_SQLAlchemy.
-- Desenvolvimento de mapas interativos para análise de experimentos com Leaflet (Python e JavaScript).
-- Implementação de um sistema de auditoria para garantir a integridade dos dados geográficos.
-- Aplicação de Deep Learning (U-net) para predição do uso da terra.
-- Zoneamento climático com base em unidades de manejo por clusterização.
-- Automação de busca para banco de dados em PostgreSQL com Python.
-
 
 ---
 
